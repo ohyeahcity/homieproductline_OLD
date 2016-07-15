@@ -1,7 +1,7 @@
 [
    {
       "lang_navintro": "介紹",
-      "lang_navproduct": "產品",
+      "lang_navproduct": "產品<b class=\"caret\"></b>",
       "lang_navhub": "智能小管家",
       "lang_navpm": "懸浮粒子感測器",
       "lang_navair": "DC變頻空氣清淨機",
@@ -28,7 +28,7 @@
    },
    {
       "lang_navintro": "Introduction",
-      "lang_navproduct": "Product",
+      "lang_navproduct": "Product<b class=\"caret\"></b>",
       "lang_navhub": "Smart Appliances Control",
       "lang_navpm": "PM2.5 Detector",
       "lang_navair": "Air Purifer Monitor",
