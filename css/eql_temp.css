@@ -2,10 +2,15 @@
 
 /* EQL Template_last updated 2016-06-22 */
 
-html, body {
-	font-family: 'Palanquin', sans-serif;
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexhei.css);
+
+.tw {
+  font-family: 'Palanquin','cwTeXHei',"微軟正黑體", sans-serif;
 }
 
+html, body {
+	 font-family: 'Palanquin','cwTeXHei',"微軟正黑體", sans-serif;
+}
 
 .nav_spec {
 	min-height:70px;
@@ -249,12 +254,16 @@ html, body {
 
 	.snBtn {
 		width:200px;
+		height: 30px;
 		margin-left:-50px;
+		display: block;
 	}
+
 
 	.snBtn li {
 		list-style:none;
 		float:left;
+
 		margin:0px 10px 0px 0px;
 		border-top:0 none !important;
 		padding:10px 0px !important;
@@ -277,7 +286,8 @@ html, body {
 	.copyright p{
 		text-align: center;
 		color: #999;
-		font-size:16px;
+		font-size:13px;
+		letter-spacing: 0.5px;
 	}
 
 
