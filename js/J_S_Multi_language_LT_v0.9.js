@@ -104,6 +104,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_feature_title03').innerHTML = arr[lang_index].lang_feature_title03;
   document.getElementById('lang_feature_title04').innerHTML = arr[lang_index].lang_feature_title04;
   document.getElementById('lang_feature_title05').innerHTML = arr[lang_index].lang_feature_title05;
+  document.getElementById('lang_product').innerHTML = arr[lang_index].lang_product;
   document.getElementById('lang_product_title').innerHTML = arr[lang_index].lang_product_title;
   document.getElementById('lang_product_hub').innerHTML = arr[lang_index].lang_product_hub;
   document.getElementById('lang_product_hubcont').innerHTML = arr[lang_index].lang_product_hubcont;
@@ -113,6 +114,10 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_product_aircont').innerHTML = arr[lang_index].lang_product_aircont;
   document.getElementById('lang_product_meter').innerHTML = arr[lang_index].lang_product_meter;
   document.getElementById('lang_product_metercont').innerHTML = arr[lang_index].lang_product_metercont;
+  document.getElementById('lang_product_light').innerHTML = arr[lang_index].lang_product_light;
+  document.getElementById('lang_product_lightcont').innerHTML = arr[lang_index].lang_product_lightcont;
+  document.getElementById('lang_product_plug').innerHTML = arr[lang_index].lang_product_plug;
+  document.getElementById('lang_product_plugcont').innerHTML = arr[lang_index].lang_product_plugcont;
   document.getElementById('lang_foot_shortcut').innerHTML = arr[lang_index].lang_foot_shortcut;
 
   document.getElementById('lang_iphone_title').innerHTML = arr[lang_index].lang_iphone_title;

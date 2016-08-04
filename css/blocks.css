@@ -3040,6 +3040,20 @@ Version: 1.0
     border-radius: 2px;
 }
 
+/*.comingsoon a{
+  background-color: red;
+  display: block;
+  margin: 0 auto;
+  min-height:500px;
+   background-image:url(../images/homie/light.jpg) ;
+   background-size: cover;
+}
+
+.comingsoon a:hover{
+   background-image:url(../images/homie/light_coming.jpg) ;
+  background-size: cover;
+}*/
+
 .gallery-item .gallery-thumb .gallery-zoom:hover, .gallery-item .gallery-thumb .gallery-link:hover
 {
     background-color: #1ABC9C;

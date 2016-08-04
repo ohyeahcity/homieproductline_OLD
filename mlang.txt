@@ -1,4 +1,4 @@
-[
+﻿[
    {
       "lang_navintro": "介紹",
       "lang_navproduct": "產品<b class=\"caret\"></b>",
@@ -15,6 +15,7 @@
       "lang_feature_title03": "透過小管家即可進行遠端控制",
       "lang_feature_title04": "透過手機APP即可設定排程",
       "lang_feature_title05": "產品間設定連動智能又方便",
+      "lang_product": "產品",
       "lang_product_title": "無需龐大花費更換家中設備也能體驗智慧家庭的便捷",
       "lang_product_hub": "智能小管家",
       "lang_product_hubcont": "無論離家多遠，透過APP即可遠端遙控家中電器",
@@ -24,6 +25,10 @@
       "lang_product_aircont": "內建高效率三合一HEPA濾網，潔淨空氣效率高達99.9%",
       "lang_product_meter": "數位臂式血壓計",
       "lang_product_metercont": "智慧型量測設計，雲端紀錄並管理全家血壓狀況",
+      "lang_product_light": "LIGHT",
+      "lang_product_lightcont": "無論離家多遠，透過APP即可遠端遙控家中電器",
+      "lang_product_plug": "PLUG",
+      "lang_product_plugcont": "遠端控制接上PLUG的家電, 設定排程, 節能又方便",
       "lang_foot_shortcut": "快速連結"
    },
    {
@@ -42,6 +47,7 @@
       "lang_feature_title03": "Remote access thru EQL Samrt Appliances Control",
       "lang_feature_title04": "Set up daily schedule just 1-click in APP",
       "lang_feature_title05": "Everything works together Easy and intelligent",
+      "lang_product": "Products",
       "lang_product_title": "To experience smarter and comfortable home  at affordable cost",
       "lang_product_hub": "Samrt Appliances Control",
       "lang_product_hubcont": "Control home appliances from APP no matter where you are",
@@ -51,6 +57,10 @@
       "lang_product_aircont": "HEPA-13 filter effectively removes 99% of particles ",
       "lang_product_meter": "Blood Presure Monitor",
       "lang_product_metercont": "Manage historical data in cloud services",
+      "lang_product_light": "LIGHT",
+      "lang_product_lightcont": "Turn on/off and set schedule from anywhere to save energy",
+      "lang_product_plug": "PLUG",
+      "lang_product_plugcont": "Control appliance and scheduling from anywhere to enhance convenience and energy saving",
       "lang_foot_shortcut": "Product"
    }
 ]
