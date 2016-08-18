@@ -81,6 +81,37 @@ function changeNavBarUIWording(lang_index){
   return;
 }
 
+
+
+
+//控制圖片中的語系
+function changeImageByLang(lang_index){
+
+
+  switch (lang_index) {
+
+    case 0:
+          document.getElementById('lang_homie_title').src = "images/logo_homie_white_ch.png" ;
+          console.log("image is cht");
+
+      break;
+    case 1:
+        document.getElementById('lang_homie_title').src = "images/logo_homie_white_eng.png" ;
+        console.log("english image now");
+      break;
+    default:
+      document.getElementById('lang_homie_title').src = "images/logo_homie_white_ch.png" ;
+      console.log("image is default cht");
+      break;
+
+  }
+  return;
+
+}
+
+
+
+//更換語系
 function changeAllNavBarUIWording(arr,lang_index){
 /*
   document.getElementById('nav_link1_wording').innerHTML = arr[lang_index].NavLink1;
@@ -97,7 +128,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_navmeter').innerHTML = arr[lang_index].lang_navmeter;
   document.getElementById('lang_navch').innerHTML = arr[lang_index].lang_navch;
   document.getElementById('lang_naven').innerHTML = arr[lang_index].lang_naven;
-  document.getElementById('lang_homie_title').innerHTML = arr[lang_index].lang_homie_title;
+
   document.getElementById('lang_homie_cont').innerHTML = arr[lang_index].lang_homie_cont;
   document.getElementById('lang_feature_title01').innerHTML = arr[lang_index].lang_feature_title01;
   document.getElementById('lang_feature_title02').innerHTML = arr[lang_index].lang_feature_title02;

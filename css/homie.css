@@ -43,6 +43,10 @@
   padding-bottom: 20px;
 }
 
+#lang_product_title{
+  font-family: Arial, 'LiHei Pro', '微軟正黑體','新細明體';
+}
+
 /*#features p {
 	font-size:18px;
 	text-align:center;
