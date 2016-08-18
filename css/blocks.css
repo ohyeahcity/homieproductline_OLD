@@ -3121,11 +3121,11 @@ Version: 1.0
 
 .gallery-item .gallery-details p
 {
-    font-size: 1em;
+  font-size: 1em;
 	line-height:115%;
 	margin-top:5px;
 	color:#999;
-  letter-spacing: 0.5px;
+  /*letter-spacing: 0.5px;*/
 }
 
 /* Gallery Filter
