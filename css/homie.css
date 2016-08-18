@@ -30,7 +30,7 @@
 }
 
 #features p {
-	font-size:16px;
+	font-size:20px;
 	text-align:center;
   line-height:22px;
   letter-spacing: 1px;
@@ -40,7 +40,7 @@
 	/*min-height:100px;*/
 }
 #features img{
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 #lang_product_title{
