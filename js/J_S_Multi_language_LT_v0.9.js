@@ -120,7 +120,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('nav_link4_wording').innerHTML = arr[lang_index].NavLink4;
   document.getElementById('nav_link5_wording').innerHTML = arr[lang_index].NavLink5;*/
 
-  
+  document.getElementById('lang_navintro').innerHTML = arr[lang_index].lang_navintro;
   document.getElementById('lang_navproduct').innerHTML = arr[lang_index].lang_navproduct;
   document.getElementById('lang_navhub').innerHTML = arr[lang_index].lang_navhub;
   document.getElementById('lang_navpm').innerHTML = arr[lang_index].lang_navpm;
